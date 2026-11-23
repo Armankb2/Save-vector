@@ -320,6 +320,4 @@ Save-vector/
 - Separating storage responsibilities from indexing and search logic.
 - Understanding trade-offs between search quality, exploration width and computational cost.
 
-## License
 
-Add the appropriate license information before distributing this project.
